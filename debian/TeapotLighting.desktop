@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Teapot Lighting
+Exec=/usr/bin/teapotlighting
+Icon=teapotlighting
+Type=Application
+Categories=Graphics;

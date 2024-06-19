@@ -1,0 +1,13 @@
+Source: teapotlighting
+Section: utils
+Priority: optional
+Maintainer: Your Name <your.email@example.com>
+Build-Depends: debhelper (>= 9), qt5-qmake, qtbase5-dev, libgl1-mesa-dev, freeglut3-dev
+Standards-Version: 3.9.6
+Homepage: https://example.com/teapotlighting
+
+Package: teapotlighting
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A simple Qt OpenGL application to render a teapot
+ A more detailed description of your project.
